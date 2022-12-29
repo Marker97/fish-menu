@@ -1,1 +1,25 @@
 
+Name: Fish and Chips Restaurant
+
+Fish Menu
+
+
+
+
+
+
+
+
+
+Drink list:
+
+Acqua minerale 1 lt
+Acqua frizzante 1 lt
+
+Coca Cola Zero 33 cl (lattina)	€	3,50
+
+Coca Cola 33 cl (lattina)	€	3,50
+
+Sprite 33 cl (lattina)	€	3,50
+
+Fanta 33 cl (lattina)	€	3,50
